@@ -45,7 +45,7 @@ use_frameworks!
 pod 'SideMenu'
 
 # For Swift 2.3, use:
-# pod 'SideMenu', '~> 1.2.1'
+# pod 'SideMenu', '~> 1.2.2'
 ```
 
 Then, run the following command:
